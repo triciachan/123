@@ -1,4 +1,5 @@
 matplotlib
 plotly
 yfinance
+pandas_ta
 
