@@ -2,4 +2,8 @@ matplotlib
 plotly
 yfinance
 pandas_ta
+jinja2==3.0
+backtesting
+talib
+
 
