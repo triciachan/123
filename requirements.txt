@@ -3,6 +3,7 @@ plotly
 yfinance
 pandas_ta
 jinja2==3.0
+bokeh==2.4.3
 backtesting
 
 
